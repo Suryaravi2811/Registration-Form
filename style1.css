@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+*{
+	
+	margin:0;
+	padding:0;
+	align-items: center;
+}
+a{
+	text-decoration: none;
+}
+h1{
+	font-family:serif;
+	
+}
+fieldset{
+	padding-bottom:50px;
+	background-color:rgb(174, 219, 240);
+ 	background-position: 5px;
+    background-origin: content-box;
+    align-items: center;
+}
+input{
+    background-color: white;
+    font-family:  Calibri;
+    text-align: center;
+    color: black;
+}
